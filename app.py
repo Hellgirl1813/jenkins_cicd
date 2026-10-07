@@ -1,10 +1,13 @@
 def sumar(a, b):
+    print("resultado")
     return a + b
 
 def restar (a, b):
+    print("resultado")
     return a - b
     
 def multiplicar(a,b):
+    print("resultado")
     return a * b
   
 def dividir (a,b):
